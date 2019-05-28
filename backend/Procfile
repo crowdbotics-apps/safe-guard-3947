@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT safe_guard_3947.wsgi:application
